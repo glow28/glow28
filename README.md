@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gloria</h1>
-<h3 align="center">A passionate data driven scientist & clinician from the UK.</h3>
+<h3 align="center">A Gen AI & data scientist & clinician from the UK.</h3>
 
-- 🔭 I’m currently working on **articulate health**
+- 🔭 I’m currently working on **articulate health & TIBAI**
 
-- 🌱 I’m currently learning **R, C++**
+- 🌱 I have a distinction in AI/ Data Science in the UK**
 
 - 👯 I’m looking to collaborate on **thinkinbox**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **Python, SQL, Deep Learning, AI**
+- 💬 Ask me about **Python, SQL, Deep Learning, Gen AI**
 
 - 📫 How to reach me **gesegbona@aol.com**
 
